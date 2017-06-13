@@ -1,0 +1,42 @@
+* {
+      /*border: 1px solid black;*/
+
+}
+
+html, body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+h1.jumbotron{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding: 0;
+}
+p.lead {
+  text-align: center;
+
+}
+.jumbotron {
+  padding-top: 5px;
+}
+
+.text-muted {
+  margin-top: 4px;
+  margin-bottom: 5px;
+}
+h5.text-muted {
+  margin-bottom: 8px;
+}
+.header clearfix{
+  border-bottom: 3px solid gray;
+}
+.row{
+  display: inline;
+}
+input#chirp-input.col-md-4 {
+ justify-content: space-evenly;
+ 
+}
